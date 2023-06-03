@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SGFFARMACIA</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="about_us">About US</string>
+    <string name="logout">Logout</string>
+    <string name="FarmaciaSGF_Open" />
+    <string name="FarmaciaSGF_close" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

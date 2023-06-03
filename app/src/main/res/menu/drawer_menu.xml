@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="@string/setting"/>
+    <item
+        android:id="@+id/nav_Share"
+        android:icon="@drawable/baseline_share_24"
+        android:title="@string/share"/>
+    <item
+        android:id="@+id/nav_About"
+        android:icon="@drawable/baseline_info_24"
+        android:title="@string/about_us" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/logout" />
+
+</menu>
+
+
